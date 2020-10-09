@@ -18,15 +18,15 @@
 # mazi
 # xiaoer
 
+if __name__ == '__main__':
+    nameNum = int(input())
+    nameList = []
+    for i in range(0, nameNum):
+        inputName = input().split(" ")
+        nameList.append(inputName)
+    nameList.sort()
 
-nameNum = int(input())
-nameList = []
-for i in range(0, nameNum):
-    inputName = input().split(" ")
-    nameList.append(inputName)
-nameList.sort()
-
-targetLastName = input()
-for i in range(0, nameNum):
-    if nameList[i][1] == targetLastName:
-        print(nameList[i][0])
+    targetLastName = input()
+    for i in range(0, nameNum):
+        if nameList[i][1] == targetLastName:
+            print(nameList[i][0])
