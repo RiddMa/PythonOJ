@@ -44,5 +44,41 @@
 1 2 3
 """
 
-if __name__ == '__main__':
+from collections import OrderedDict
 
+
+class LRUCache:
+    def __init__(self, size):
+        self.size = size
+        self.linked_map = OrderedDict()
+
+    def set(self, key, value):
+        if key in self.linked_map:
+            self.linked_map.pop(key)
+        if self.size == len(self.linked_map):
+            self.linked_map.popitem(last=False)
+        self.linked_map.update({key: value})
+
+    def get(self, key):
+        value = self.linked_map.get(key)
+        self.linked_map.pop(key)
+        self.linked_map.update({key: value})
+        return value
+
+
+if __name__ == '__main__':
+    cacheSize, accNum = map(int, input().split())
+    c = LRUCache(cacheSize)
+    cnt = 0
+    inList = list(map(int, input().split()))
+    for i in range(0, accNum):
+        if inList[i] in c.linked_map:
+            c.get(inList[i])
+        else:
+            c.set(inList[i], inList[i])
+            cnt += 1
+    res = sorted(c.linked_map.keys())
+    print(cnt)
+    for i in range(0, len(res) - 1):
+        print(res[i], end=' ')
+    print(res[len(res) - 1], end='')
