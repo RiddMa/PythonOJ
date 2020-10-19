@@ -25,3 +25,19 @@
 样例输出2：
 3
 """
+
+if __name__ == '__main__':
+    n, m = map(int, input().split())
+    op = int(input())
+    zeroNum = n * m
+    mat = [[0 for i in range(m + 1)] for j in range(n + 1)]
+
+    for it in range(op):
+        x1, y1, x2, y2 = map(int, input().split())
+        for row in range(x1, x2 + 1):
+            for col in range(y1, y2 + 1):
+                if mat[row][col] == 0:
+                    zeroNum -= 1
+                mat[row][col] = 1
+
+    print(zeroNum)
