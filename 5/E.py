@@ -38,5 +38,25 @@ True
 True
 """
 
+import random
+
+
+def multiply(a, b, p, q, r):
+    matrix = [[0] * r for i in range(p)]
+    for row in range(p):
+        for col in range(r):
+            for it in range(q):
+                matrix[row][col] += a[row][it] * b[it][col]
+    return matrix
+
 
 if __name__ == '__main__':
+    p = int(input())
+    q = int(input())
+    r = int(input())
+
+    a = [[random.randint(0, 10) for x in range(q)] for y in range(p)]
+    b = [[random.randint(0, 10) for x in range(r)] for y in range(q)]
+    c = multiply(a, b, p, q, r)
+
+    print(c)
