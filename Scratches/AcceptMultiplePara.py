@@ -7,4 +7,4 @@ def func1(*a):
 
 
 if __name__ == '__main__':
-    print(func1(1,2))
+    print(func1(1, 2))
