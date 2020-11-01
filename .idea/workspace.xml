@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76473439-1c7b-4a26-95a7-d81bf619c437" name="Default Changelist" comment="2020年10月22日09:48:16" />
+    <list default="true" id="76473439-1c7b-4a26-95a7-d81bf619c437" name="Default Changelist" comment="2020年10月31日16:29:55">
+      <change afterPath="$PROJECT_DIR$/6/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scratches/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scratches/a.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,21 +62,21 @@
       <recent name="$PROJECT_DIR$/4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.MemFibo">
-    <configuration name="A (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="OJ" />
+  <component name="RunManager" selected="Python.A">
+    <configuration name="A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/A.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6/A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,28 +99,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scratches/AcceptMultiplePara.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="OJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3/B.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,6 +173,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scratches" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scratches/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="OJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,19 +219,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.B" />
-      <item itemvalue="Python.A (1)" />
       <item itemvalue="Python.D" />
       <item itemvalue="Python.AcceptMultiplePara" />
       <item itemvalue="Python.MemFibo" />
+      <item itemvalue="Python.a" />
+      <item itemvalue="Python.A" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.A" />
+        <item itemvalue="Python.a" />
         <item itemvalue="Python.MemFibo" />
         <item itemvalue="Python.AcceptMultiplePara" />
         <item itemvalue="Python.D" />
-        <item itemvalue="Python.A (1)" />
-        <item itemvalue="Python.B" />
       </list>
     </recent_temporary>
   </component>
@@ -242,6 +247,7 @@
       <workItem from="1602245060940" duration="449000" />
       <workItem from="1603037986805" duration="4790000" />
       <workItem from="1603326571181" duration="2691000" />
+      <workItem from="1604132910302" duration="2432000" />
     </task>
     <task id="LOCAL-00001" summary="oj3 not finished">
       <created>1602232242122</created>
@@ -271,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603331298779</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2020年10月31日16:29:55">
+      <created>1604132998943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604132998943</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,7 +307,8 @@
     <MESSAGE value="oj3 not finished" />
     <MESSAGE value="why not working?" />
     <MESSAGE value="2020年10月22日09:48:16" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年10月22日09:48:16" />
+    <MESSAGE value="2020年10月31日16:29:55" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年10月31日16:29:55" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602227415297">
@@ -305,38 +319,50 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="507" y="232" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1602227154623" />
-    <state width="1398" height="218" key="GridCell.Tab.0.bottom" timestamp="1603331322107">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="2518" height="507" key="GridCell.Tab.0.bottom" timestamp="1604136456508">
+      <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
+    <state width="2518" height="507" key="GridCell.Tab.0.bottom/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604136456508" />
     <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603331322107" />
-    <state width="1398" height="218" key="GridCell.Tab.0.center" timestamp="1603331322105">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="2518" height="507" key="GridCell.Tab.0.center" timestamp="1604136456506">
+      <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
+    <state width="2518" height="507" key="GridCell.Tab.0.center/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604136456506" />
     <state width="1398" height="218" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603331322105" />
-    <state width="1398" height="218" key="GridCell.Tab.0.left" timestamp="1603331322103">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="2518" height="507" key="GridCell.Tab.0.left" timestamp="1604136456505">
+      <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
+    <state width="2518" height="507" key="GridCell.Tab.0.left/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604136456505" />
     <state width="1398" height="218" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603331322103" />
-    <state width="1398" height="218" key="GridCell.Tab.0.right" timestamp="1603331322106">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="2518" height="507" key="GridCell.Tab.0.right" timestamp="1604136456507">
+      <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
+    <state width="2518" height="507" key="GridCell.Tab.0.right/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604136456507" />
     <state width="1398" height="218" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603331322106" />
-    <state width="1398" height="218" key="GridCell.Tab.1.bottom" timestamp="1603331322109">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="2518" height="378" key="GridCell.Tab.1.bottom" timestamp="1604133328904">
+      <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
+    <state width="2518" height="378" key="GridCell.Tab.1.bottom/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604133328904" />
     <state width="1398" height="218" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603331322109" />
-    <state width="1398" height="218" key="GridCell.Tab.1.center" timestamp="1603331322108">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="2518" height="378" key="GridCell.Tab.1.center" timestamp="1604133328902">
+      <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
+    <state width="2518" height="378" key="GridCell.Tab.1.center/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604133328902" />
     <state width="1398" height="218" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603331322108" />
-    <state width="1398" height="218" key="GridCell.Tab.1.left" timestamp="1603331322108">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="2518" height="378" key="GridCell.Tab.1.left" timestamp="1604133328901">
+      <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
+    <state width="2518" height="378" key="GridCell.Tab.1.left/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604133328901" />
     <state width="1398" height="218" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603331322108" />
-    <state width="1398" height="218" key="GridCell.Tab.1.right" timestamp="1603331322109">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="2518" height="378" key="GridCell.Tab.1.right" timestamp="1604133328903">
+      <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
+    <state width="2518" height="378" key="GridCell.Tab.1.right/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604133328903" />
     <state width="1398" height="218" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603331322109" />
+    <state x="342" y="-952" key="MultipleFileMergeDialog" timestamp="1604133012850">
+      <screen x="-579" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="342" y="-952" key="MultipleFileMergeDialog/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604133012850" />
     <state x="321" y="94" key="SettingsEditor" timestamp="1603327282852">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -345,9 +371,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603331303082" />
-    <state x="517" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603326832370">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="340" y="-846" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604133003485">
+      <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
+    <state x="340" y="-846" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604133003485" />
     <state x="517" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1603326832370" />
   </component>
   <component name="XDebuggerManager">
@@ -364,7 +391,8 @@
     <SUITE FILE_PATH="coverage/PythonOJ$B.coverage" NAME="B Coverage Results" MODIFIED="1602232076731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3" />
     <SUITE FILE_PATH="coverage/PythonOJ$main__1_.coverage" NAME="AcceptMultiplePara Coverage Results" MODIFIED="1603328132696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonOJ$D.coverage" NAME="D Coverage Results" MODIFIED="1603326852375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4" />
-    <SUITE FILE_PATH="coverage/PythonOJ$A.coverage" NAME="A Coverage Results" MODIFIED="1602230637517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3" />
+    <SUITE FILE_PATH="coverage/PythonOJ$a.coverage" NAME="a Coverage Results" MODIFIED="1604133727514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scratches" />
+    <SUITE FILE_PATH="coverage/PythonOJ$A.coverage" NAME="A Coverage Results" MODIFIED="1604136456496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
     <SUITE FILE_PATH="coverage/PythonOJ$main.coverage" NAME="main Coverage Results" MODIFIED="1602227420185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
