@@ -19,34 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76473439-1c7b-4a26-95a7-d81bf619c437" name="Default Changelist" comment="2020年11月01日11:57:20">
-      <change afterPath="$PROJECT_DIR$/6/7-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6/7-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6/7-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/1/1000.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/1/1001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/1/1005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/1010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/1011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/1012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/1006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/1013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/1014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/1015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/1035.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/1036.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/1037.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/1034.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/5/6-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/5/6-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/5/6-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/5/6-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/5/6-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/5/6-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/6/7-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/6/7-4.py" afterDir="false" />
-    </list>
+    <list default="true" id="76473439-1c7b-4a26-95a7-d81bf619c437" name="Default Changelist" comment="2020年11月01日15:26:36&#10;作业 6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -269,7 +242,7 @@
       <workItem from="1602245060940" duration="449000" />
       <workItem from="1603037986805" duration="4790000" />
       <workItem from="1603326571181" duration="2691000" />
-      <workItem from="1604132910302" duration="5992000" />
+      <workItem from="1604132910302" duration="6157000" />
     </task>
     <task id="LOCAL-00001" summary="oj3 not finished">
       <created>1602232242122</created>
@@ -313,7 +286,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604203043499</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2020年11月01日15:26:36&#10;作业 6">
+      <created>1604215608561</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604215608561</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2020年11月01日15:26:36&#10;作业 6">
+      <created>1604215624377</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604215624377</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,7 +325,9 @@
     <MESSAGE value="2020年10月22日09:48:16" />
     <MESSAGE value="2020年10月31日16:29:55" />
     <MESSAGE value="2020年11月01日11:57:20" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年11月01日11:57:20" />
+    <MESSAGE value="2020年11月01日15:26:36&#10;作业 6+重命名" />
+    <MESSAGE value="2020年11月01日15:26:36&#10;作业 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年11月01日15:26:36&#10;作业 6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602227415297">
@@ -349,45 +338,45 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="507" y="232" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1602227154623" />
-    <state width="2518" height="324" key="GridCell.Tab.0.bottom" timestamp="1604215511017">
+    <state width="2518" height="378" key="GridCell.Tab.0.bottom" timestamp="1604215833549">
       <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
-    <state width="2518" height="324" key="GridCell.Tab.0.bottom/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215511017" />
+    <state width="2518" height="378" key="GridCell.Tab.0.bottom/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215833549" />
     <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603331322107" />
-    <state width="2518" height="324" key="GridCell.Tab.0.center" timestamp="1604215511015">
+    <state width="2518" height="378" key="GridCell.Tab.0.center" timestamp="1604215833547">
       <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
-    <state width="2518" height="324" key="GridCell.Tab.0.center/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215511015" />
+    <state width="2518" height="378" key="GridCell.Tab.0.center/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215833547" />
     <state width="1398" height="218" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603331322105" />
-    <state width="2518" height="324" key="GridCell.Tab.0.left" timestamp="1604215511014">
+    <state width="2518" height="378" key="GridCell.Tab.0.left" timestamp="1604215833546">
       <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
-    <state width="2518" height="324" key="GridCell.Tab.0.left/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215511014" />
+    <state width="2518" height="378" key="GridCell.Tab.0.left/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215833546" />
     <state width="1398" height="218" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603331322103" />
-    <state width="2518" height="324" key="GridCell.Tab.0.right" timestamp="1604215511016">
+    <state width="2518" height="378" key="GridCell.Tab.0.right" timestamp="1604215833548">
       <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
-    <state width="2518" height="324" key="GridCell.Tab.0.right/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215511016" />
+    <state width="2518" height="378" key="GridCell.Tab.0.right/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215833548" />
     <state width="1398" height="218" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603331322106" />
-    <state width="2518" height="378" key="GridCell.Tab.1.bottom" timestamp="1604214311999">
+    <state width="2518" height="378" key="GridCell.Tab.1.bottom" timestamp="1604215833553">
       <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
-    <state width="2518" height="378" key="GridCell.Tab.1.bottom/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604214311999" />
+    <state width="2518" height="378" key="GridCell.Tab.1.bottom/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215833553" />
     <state width="1398" height="218" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603331322109" />
-    <state width="2518" height="378" key="GridCell.Tab.1.center" timestamp="1604214311998">
+    <state width="2518" height="378" key="GridCell.Tab.1.center" timestamp="1604215833551">
       <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
-    <state width="2518" height="378" key="GridCell.Tab.1.center/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604214311998" />
+    <state width="2518" height="378" key="GridCell.Tab.1.center/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215833551" />
     <state width="1398" height="218" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603331322108" />
-    <state width="2518" height="378" key="GridCell.Tab.1.left" timestamp="1604214311997">
+    <state width="2518" height="378" key="GridCell.Tab.1.left" timestamp="1604215833550">
       <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
-    <state width="2518" height="378" key="GridCell.Tab.1.left/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604214311997" />
+    <state width="2518" height="378" key="GridCell.Tab.1.left/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215833550" />
     <state width="1398" height="218" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603331322108" />
-    <state width="2518" height="378" key="GridCell.Tab.1.right" timestamp="1604214311998">
+    <state width="2518" height="378" key="GridCell.Tab.1.right" timestamp="1604215833552">
       <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
-    <state width="2518" height="378" key="GridCell.Tab.1.right/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604214311998" />
+    <state width="2518" height="378" key="GridCell.Tab.1.right/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215833552" />
     <state width="1398" height="218" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603331322109" />
     <state x="342" y="-952" key="MultipleFileMergeDialog" timestamp="1604133012850">
       <screen x="-579" y="-1440" width="2560" height="1440" />
@@ -397,10 +386,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="321" y="94" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603327282852" />
-    <state x="-10" y="-1136" key="Vcs.Push.Dialog.v2" timestamp="1604203047980">
+    <state x="-10" y="-1136" key="Vcs.Push.Dialog.v2" timestamp="1604215631929">
       <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
-    <state x="-10" y="-1136" key="Vcs.Push.Dialog.v2/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604203047980" />
+    <state x="-10" y="-1136" key="Vcs.Push.Dialog.v2/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215631928" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603331303082" />
     <state x="340" y="-846" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604133003485">
       <screen x="-579" y="-1440" width="2560" height="1440" />
