@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76473439-1c7b-4a26-95a7-d81bf619c437" name="Default Changelist" comment="2020年11月17日00:27:53">
+    <list default="true" id="76473439-1c7b-4a26-95a7-d81bf619c437" name="Default Changelist" comment="2020年11月17日12:02:16">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -215,12 +215,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.7-3" />
       <item itemvalue="Python.7-2" />
+      <item itemvalue="Python.7-3" />
       <item itemvalue="Python.7-4" />
       <item itemvalue="Python.7-5" />
       <item itemvalue="Python.7-6" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
@@ -245,7 +245,7 @@
       <workItem from="1603037986805" duration="4790000" />
       <workItem from="1603326571181" duration="2691000" />
       <workItem from="1604132910302" duration="6157000" />
-      <workItem from="1605543995974" duration="538000" />
+      <workItem from="1605543995974" duration="1480000" />
     </task>
     <task id="LOCAL-00001" summary="oj3 not finished">
       <created>1602232242122</created>
@@ -310,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605544076041</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2020年11月17日12:02:16">
+      <created>1605585748649</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605585748649</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,7 +345,8 @@
     <MESSAGE value="2020年11月01日15:26:36&#10;作业 6+重命名" />
     <MESSAGE value="2020年11月01日15:26:36&#10;作业 6" />
     <MESSAGE value="2020年11月17日00:27:53" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年11月17日00:27:53" />
+    <MESSAGE value="2020年11月17日12:02:16" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年11月17日12:02:16" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602227415297">
@@ -393,20 +401,20 @@
       <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
     <state x="342" y="-952" key="MultipleFileMergeDialog/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604133012850" />
-    <state x="321" y="94" key="SettingsEditor" timestamp="1603327282852">
+    <state x="321" y="94" key="SettingsEditor" timestamp="1605586098497">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="321" y="94" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603327282852" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605544079456">
+    <state x="321" y="94" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605586098497" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605586105250">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="-10" y="-1136" key="Vcs.Push.Dialog.v2/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215631928" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605544079456" />
-    <state x="340" y="-846" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604133003485">
-      <screen x="-579" y="-1440" width="2560" height="1440" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605586105250" />
+    <state x="517" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605586702344">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="340" y="-846" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604133003485" />
-    <state x="517" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1603326832370" />
+    <state x="517" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1605586702344" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonOJ$MemFibo.coverage" NAME="MemFibo Coverage Results" MODIFIED="1603330195794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
