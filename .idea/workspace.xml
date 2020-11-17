@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76473439-1c7b-4a26-95a7-d81bf619c437" name="Default Changelist" comment="2020年11月01日15:26:36&#10;作业 6" />
+    <list default="true" id="76473439-1c7b-4a26-95a7-d81bf619c437" name="Default Changelist" comment="2020年11月17日00:27:53">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -243,6 +245,7 @@
       <workItem from="1603037986805" duration="4790000" />
       <workItem from="1603326571181" duration="2691000" />
       <workItem from="1604132910302" duration="6157000" />
+      <workItem from="1605543995974" duration="538000" />
     </task>
     <task id="LOCAL-00001" summary="oj3 not finished">
       <created>1602232242122</created>
@@ -300,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604215624377</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2020年11月17日00:27:53">
+      <created>1605544076041</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605544076041</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,7 +337,8 @@
     <MESSAGE value="2020年11月01日11:57:20" />
     <MESSAGE value="2020年11月01日15:26:36&#10;作业 6+重命名" />
     <MESSAGE value="2020年11月01日15:26:36&#10;作业 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年11月01日15:26:36&#10;作业 6" />
+    <MESSAGE value="2020年11月17日00:27:53" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年11月17日00:27:53" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602227415297">
@@ -386,11 +397,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="321" y="94" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603327282852" />
-    <state x="-10" y="-1136" key="Vcs.Push.Dialog.v2" timestamp="1604215631929">
-      <screen x="-579" y="-1440" width="2560" height="1440" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605544079456">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="-10" y="-1136" key="Vcs.Push.Dialog.v2/0.0.1440.900/-579.-1440.2560.1440@-579.-1440.2560.1440" timestamp="1604215631928" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603331303082" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605544079456" />
     <state x="340" y="-846" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604133003485">
       <screen x="-579" y="-1440" width="2560" height="1440" />
     </state>
